@@ -1,0 +1,17 @@
+Non-static
+
+1. method without parameters and without return type--(void)
+2. method with parameters and without return type--(void)
+3. method without parameters and with return type
+4. method with parameters and with return type
+
+
+static
+
+1. method without parameters and without return type--(void)
+2. method with parameters and without return type--(void)
+3. method without parameters and with return type
+4. method with parameters and with return type
+
+Passing data from one method to another method
+calling methods from one class to another class
