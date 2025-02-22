@@ -1,0 +1,44 @@
+program to print array elements in reverse order-------------------------- solved
+program to print array elements at odd position-------------------------- practice
+program to print smallest number in an array----------------------------- practice
+program to print sum of all the array elements--------------------------practice
+program to print sum of all even position of the array elements--------------------------practice
+Find largest Array element ex: [1,6,7,8,3,4] o/p - 8 --------------------------practice
+Find largest Array element without sorting ex: [1,6,7,8,3,4] o/p - 8 ------------------- 
+find 2nd largest array element with inbuilt sorting method-------------------------------------
+find 2nd largest array element without inbuilt sorting method but sorting -----------------------------
+program to copy one array elements to another array--------------------------------
+Array program to print 2D array---------------- Solved
+program to check whether given 2 arrays are same or not-------------------------------------------------------- practice ex: boolean result = Arrays.equals(a,b)
+program to find index of array element ex: [1,6,7,8,3,4, 7] value = 7 output:index positions [2, 6]
+program to find find element based on index value ex:[1,6,7,8,3,4,7] index = 3 o/p --> 8---------------------------------------
+program to sort Array elements with sort methods ----------------------------------------------practice solved
+program to sort Array elements without sort methods ----
+program for linear search----------------------------
+program for binary search------------------------------------------------ 
+program for bubble sort---------------------------------------------- 
+program for Insertion sort--------------------------------------------
+program for selection sort---------------------------------------------------
+program to print array element in descending order--------------------------------------- practice solved
+program to find frequency of each element in an array----------------------- 
+Sort elements in Descending order--------------
+Program to get 2nd largest number without sorting array-----------------------------Solved
+
+
+Swapping 2 values ex: a= 10, b = 20 output a = 20, b = 10--------------------------------------------- practice
+reverse of a number ex: 123 ouput 321-------------------------------------------------------practice
+Armstrong number --------------------------------------------------------------practice
+ex:
+nput:153
+Output: Yes
+Explanation: 153 is an Armstrong number, 1*1*1 + 5*5*5 + 3*3*3 = 153
+Input: 120
+Output: No
+Explanation: 120 is not a Armstrong number, 1*1*1 + 2*2*2 + 0*0*0 = 9
+Input: 1253
+Output: No
+Explanation: 1253 is not a Armstrong Number, 1*1*1*1 + 2*2*2*2 + 5*5*5*5 + 3*3*3*3 = 723
+Input: 1634
+Output: Yes
+Explanation: 1*1*1*1 + 6*6*6*6 + 3*3*3*3 + 4*4*4*4 = 1634
+sum of given number ex: 123 output : 1+2+3 = 6----------------------------------------------------- practice
